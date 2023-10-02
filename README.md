@@ -14,6 +14,8 @@ Results from the example.txt =>
 
 Do you like this project, please buy me a coffe:
 <br><br>
+<img src="https://github.com/DevSoftDOTSoft/MSSQLGridFileSystem/assets/20584447/b298d7f1-b601-4dfc-bd17-3a72ce04df18" width="25px" height="25px"> : 1LGtXndkZf7wbeTLKGVsYL6PaVPBrf3MjH
+<br><br>
 <img src="https://github.com/DevSoftDOTSoft/MSSQLGridFileSystem/assets/20584447/906a1914-c732-4d70-b943-b9ef4a63e7b3" width="25px" height="25px"> : kaspa:qr37ey8xmcmp29g2w6ztu9dtcmr798s9arp70v7qdqasjxj0cnvhyy5k458ll
 <br><br>
 <img src="https://github.com/DevSoftDOTSoft/MSSQLGridFileSystem/assets/20584447/152b6ab0-10df-420a-a66c-edda28d0621e" width="25px" height="25px"> : Q010500698b1a846ef8abd2a8626020a4e64c228999cfbe9b8cfe5a49e66c02529d72fa8243f2dc
@@ -23,3 +25,5 @@ Do you like this project, please buy me a coffe:
 <img src="https://github.com/DevSoftDOTSoft/MSSQLGridFileSystem/assets/20584447/858f6031-3250-47a2-8447-f5291373fdd9" width="25px" height="25px"> : 86bTFaTZZrVgKTE5kyCCbaPWEjTDwJxaz5goG5Se2Meo2ZMPA99zwrDLpZG75C9GFTYFZ2mRBdWPzS5bkHtB1kg55ymz5Uz
 <br><br>
 
+
+![image]()
