@@ -5,7 +5,7 @@ The code will chunk the selected file, storing him inside a GridFilesystem.
 
 This project was created due the rare specification of converting a MongoDB into a MSSQL Database.
 
-The example deals with small compression and encription.
+The example deals with small compression and encryption.
 
 Results from the example.txt =>
 <br>
